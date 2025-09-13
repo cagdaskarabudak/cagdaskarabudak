@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## 📫 How to reach me:
+- 📩 info@alpagu.net
+- 📩 alpagudeveloper@gmail.com
+- 📞 +90 540 076 49 01
+- 📍 Instagram/alpagudeveloper
+- 📍 Instagram/cagdaskb
+- 📍 LinkedIn/cagdaskarabudak
+- 📍 alpagu.net
+- 📍 cagdaskarabudak.com
+- 📍 Istanbul/Turkey
+
 <!--
 **cagdaskarabudak/cagdaskarabudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
