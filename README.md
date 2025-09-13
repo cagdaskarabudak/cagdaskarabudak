@@ -3,7 +3,7 @@
 ## 📫 How to reach me:
 - 📩 info@alpagu.net
 - 📩 alpagudeveloper@gmail.com
-- 📞 +90 540 076 49 01
+- 📞 WhatsApp/+90 540 076 49 01
 - 📍 Instagram/alpagudeveloper
 - 📍 Instagram/cagdaskb
 - 📍 LinkedIn/cagdaskarabudak
